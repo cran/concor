@@ -1,0 +1,13 @@
+svdcp                   SVD for a Column Partitioned matrix x
+svdbip                  SVD for bipartitioned matrix x
+svdbip2                 SVD for bipartitioned matrix x
+svdbips                 SVD for bipartitioned matrix x
+concor                  Relative links of several subsets of variables
+concoreg                Redundancy of sets yj by one set x
+concorcano              Canonical analysis of several sets with another set
+concorgm                Analyzing a set of partial links between Xi and Yj
+concorgmreg             Regression of subsets Yj by subsets Xi
+concorgmcano            Canonical analysis of subsets Yj with subsets Xi
+concors                 Simultaneous concorgm
+concorsreg              Simultaneous concorgmreg
+concorscano             Simultaneous concorgmcano
